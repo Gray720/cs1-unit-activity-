@@ -1,1 +1,22 @@
+body {
+  background: lightgrey;
+font-family:'Times New Roman', Times, serif;
+padding:50px;
+#page-title
+font-size:55px;
+text-align: center;
+}
+
+li {
+  padding: 50px;
+  border-bottom: 1px solid #808080;
+  width: 80px;
+  height: auto;
+  border-radius: 11px;
+
+}
+  .train-section {
+  margin-bottom: 41px;
+  .line-name padding: 23px 21px;
+}
 
